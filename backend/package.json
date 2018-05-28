@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "301 final project weather game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "codefellows",
+    "api",
+    "301",
+    "project"
+  ],
+  "author": "todoville",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
